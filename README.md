@@ -6,6 +6,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Melekd7/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Sorting
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
