@@ -12,6 +12,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Melekd7/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -35,4 +36,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
