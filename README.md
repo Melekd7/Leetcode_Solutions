@@ -39,6 +39,7 @@
 ## String
 |  |
 | ------- |
+| [3110-score-of-a-string](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
