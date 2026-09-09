@@ -28,6 +28,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Melekd7/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Melekd7/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
